@@ -44,8 +44,8 @@
 
 ### 💡 About Me
 - CS undergrad exploring ML, backend systems & real-world deployments
-- Obsessed with clean code and building things that actually work
-- Teaching and documenting my learning journey
+- Building things that actually work
+- Documenting my learning journey
 
 ---
 
