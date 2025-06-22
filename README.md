@@ -41,7 +41,6 @@ I have been actively reading and learning about Machine Learning and Statistics 
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vivek-tripathi-4a42a1162/" target="_blank">LinkedIn</a> &nbsp;|&nbsp;
-  <a href="https://github.com/vivektripathi-dev" target="_blank">GitHub</a> &nbsp;|&nbsp;
   <a href="https://www.youtube.com/@vivekIsLagging" target="_blank">YouTube</a> &nbsp;|&nbsp;
   <a href="https://www.vivektripathi.com" target="_blank">Portfolio</a> &nbsp;|&nbsp;
   <a href="https://www.goodreads.com/user/show/188641679-vivek-tripathi" target="_blank">Goodreads</a> &nbsp;|&nbsp;
