@@ -3,23 +3,37 @@
 
 ---
 
-### 🚀 Tech I Work With
+### 🛠️ Tech Stack Breakdown
 
-<p align="center">
+#### 🧾 Programming Languages
+<p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" alt="C"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" alt="Java"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
+</p>
+
+#### 🤖 Machine Learning & AI
+<p>
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" alt="PyTorch"/>
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" alt="TensorFlow"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" alt="Pandas"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" alt="Scikit-learn"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" alt="Pandas"/>
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" alt="OpenCV"/>
+</p>
+
+#### 🌐 Web Development
+<p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" alt="React"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" alt="Node.js"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" alt="HTML"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" alt="CSS"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" alt="MySQL"/>
+</p>
+
+#### ⚙️ Tools & DevOps
+<p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" alt="Docker"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" alt="AWS"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" alt="Linux"/>
@@ -29,16 +43,9 @@
 ---
 
 ### 💡 About Me
-- Final-year CS student with a passion for shipping real-world projects
-- Love working across the stack — from designing UIs to training models
-- Always tinkering with new tech, building tools, and sharing insights
-
----
-
-### 🎯 Current Focus
-- Deploying ML models with Docker & AWS
-- Building smart web apps with MERN + AI
-- Improving low-level systems knowledge
+- CS undergrad exploring ML, backend systems & real-world deployments
+- Obsessed with clean code and building things that actually work
+- Teaching and documenting my learning journey
 
 ---
 
@@ -52,5 +59,7 @@
 
 ---
 
-### ⚡ Let’s Build Something Awesome
-Open to collabs, internships, or just tech talks. If you're working on something cool, hit me up — I love side projects and solving problems through code.
+### 🚀 Always Open For
+- Full-stack or ML-based internships
+- Side-project collaborations
+- Learning from other devs & creators
