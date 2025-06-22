@@ -7,6 +7,7 @@
 ### 🧠 Quick Intro
 
 Hey, I’m Vivek — a CS undergrad.  
+<br>
 I have worked with Java for building scalable application along with that I have also worked with python for data analysis and machine learning projects.  
 <br>
 I have been actively reading and learning about Machine Learning and Statistics and would love to explore an opportunity in that area.
