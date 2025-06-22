@@ -1,5 +1,5 @@
 
-<h1 align="center">🚀 Vivek in Build Mode</h1>
+<h1 align="center">Vivek Tripathi</h1>
 <p align="center">Full-stack Dev | ML & DS Enthusiast | CS Undergrad | Learning</p>
 
 ---
