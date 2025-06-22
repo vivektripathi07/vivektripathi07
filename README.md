@@ -14,36 +14,29 @@ Currently experimenting with real-world ML deployments, scalable backends, and t
 ### 🔨 What I Code With (and Love)
 
 #### 🚧 Languages & Scripts I Use Like Tools
-`Python` · `JavaScript` · `C++` · `Java` · `C`  
-Ask me about REST APIs, async bugs, or vectorized ops — I’ve got war stories.
+`Python` · `JavaScript` · `C++` · `Java` · `C`
 
 #### 🧠 ML Playground
-`PyTorch` · `TensorFlow` · `Scikit-learn` · `OpenCV` · `Pandas`  
-Latest obsessions: CNN quantization, real-time video inference, and LLM fine-tuning.
+`PyTorch` · `TensorFlow` · `Scikit-learn` · `OpenCV` · `Pandas`
 
 #### 🌐 Full-Stack Power Moves
-`React.js` · `Node.js` · `Express` · `MySQL` · `HTML/CSS`  
-Working on making my backends fast and my frontends tolerable.
+`React.js` · `Node.js` · `Express` · `MySQL` · `HTML/CSS`
 
 #### 🛠 Infra, Cloud & DevOps
-`Docker` · `AWS` · `Linux` · `Git`  
-I containerize everything. Even weekend projects.
+`Docker` · `AWS` · `Linux` · `Git`
 
 ---
 
 ### 📌 Pinned Side Quests
 
 - 🔍 **Realtime Fire Detection with YOLOv5**  
-  Fine-tuned and deployed to run on CCTV feeds with 93% precision  
-  *(Yes, it triggers alerts IRL)*
+  Fine-tuned and deployed to run on CCTV feeds with 93% precision
 
 - 🎮 **Multiplayer JS Game Engine**  
-  WebSocket-powered, server-state synced game logic  
-  Learned more debugging than building this
+  WebSocket-powered, server-state synced game logic
 
 - 🧾 **AutoML Pipeline with GUI**  
-  Made for non-coders: feed CSV → get trained models + eval reports  
-  Because Kaggle notebooks aren't the endgame
+  Built for non-coders: feed CSV → get trained models + reports
 
 ---
 
@@ -51,16 +44,31 @@ I containerize everything. Even weekend projects.
 
 - Internships: backend-heavy, ML-driven, or full-stack firestarters  
 - Collabs: Let’s ship fast, learn faster  
-- Nerd-outs: Model performance chats, infra scaling, or even just dark mode debates
+- Nerd-outs: Model performance, infra scaling, or dark mode debates
 
 ---
 
-### 🔗 Find Me Elsewhere
+### 🔗 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vivek-tripathi-4a42a1162/"><img src="https://img.shields.io/badge/LinkedIn-Vivek-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
-  <a href="https://www.youtube.com/@vivekIsLagging"><img src="https://img.shields.io/badge/YouTube-VivekIsLagging-red?style=for-the-badge&logo=youtube" alt="YouTube"/></a>
-  <a href="https://www.vivektripathi.com"><img src="https://img.shields.io/badge/Portfolio-vivektripathi.com-black?style=for-the-badge&logo=firefox" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/vivek-tripathi-4a42a1162/" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/30/0077b5/linkedin.png" alt="LinkedIn"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://github.com/vivektripathi-dev" target="_blank">
+    <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" alt="GitHub"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.youtube.com/@vivekIsLagging" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/30/fa314a/youtube-play.png" alt="YouTube"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.vivektripathi.com" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/30/000000/domain.png" alt="Portfolio"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.goodreads.com/user/show/YOUR_USER_ID" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/30/8B4513/goodreads.png" alt="Goodreads"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://bsky.app/profile/YOUR_HANDLE" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Bluesky_Logo.svg/32px-Bluesky_Logo.svg.png" width="30" alt="Bluesky"/>
+  </a>
 </p>
 
 ---
