@@ -48,3 +48,6 @@ I have been actively reading and learning about Machine Learning and Statistics 
 </p>
 
 ---
+
+
+![github_gif](https://github.com/user-attachments/assets/ec2cb261-0145-4b9c-befa-30d10fe52cf2)
