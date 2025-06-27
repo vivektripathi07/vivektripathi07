@@ -26,7 +26,7 @@ I have been actively reading and learning about Machine Learning and Statistics 
 `React.js` · `Node.js` · `Express` · `MySQL` · `HTML/CSS`
 
 #### 🛠 Infra, Cloud & DevOps
-`Docker` · `AWS` · `Linux` · `Git`
+`Docker` · `AWS` · `Linux` · `Git` . `Jenkins`
 
 ---
 
