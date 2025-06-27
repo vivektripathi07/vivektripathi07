@@ -50,4 +50,6 @@ I have been actively reading and learning about Machine Learning and Statistics 
 ---
 
 
-![github_gif](https://github.com/user-attachments/assets/ec2cb261-0145-4b9c-befa-30d10fe52cf2)
+<div align="center">
+  <img src="[https://your-gif-url.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fideas%2Fsamurai-champloo-mugen-gif%2F921570029890%2F&psig=AOvVaw2dzIVqT68CX-9ef-QFaCKI&ust=1751110612999000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKDv5v_BkY4DFQAAAAAdAAAAABAE) " width="300" style="border-radius: 10px;">
+</div>
