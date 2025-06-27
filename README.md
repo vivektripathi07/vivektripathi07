@@ -13,8 +13,9 @@ I have worked with Java for building scalable application along with that I have
 I have been actively reading and learning about Machine Learning and Statistics and would love to explore an opportunity in that area.
 
 ---
+<img align="right" alt="Coding" width="500" height="355" border-radius= "10px" src="https://github.com/user-attachments/assets/a92bccf2-0b54-45c1-917a-f4f4a465277d">
 
-### 🔨 What I Code With (and Love)
+### 🔨 What I Code With
 
 #### 🚧 Languages & Scripts I Use Like Tools
 `Java` · `C` · `C++` · `Python` · `JavaScript`
