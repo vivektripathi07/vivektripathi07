@@ -15,18 +15,18 @@ I have been actively reading and learning about Machine Learning and Statistics 
 ---
 <img align="right" alt="Coding" width="500" height="355" border-radius= "10px" src="https://github.com/user-attachments/assets/a92bccf2-0b54-45c1-917a-f4f4a465277d">
 
-### 🔨 What I Code With
+### 🔨 Tookit
 
-#### 🚧 Languages & Scripts I Use Like Tools
+#### 🚧 Languages
 `Java` · `C` · `C++` · `Python` · `JavaScript`
 
-#### 🧠 ML Playground
+#### 🧠 ML Related
 `Pandas` · `TensorFlow` · `Scikit-learn` · `OpenCV` · `PyTorch`
 
-#### 🌐 Full-Stack Power Moves
+#### 🌐 Web Dev
 `React.js` · `Node.js` · `Express` · `MySQL` · `HTML/CSS`
 
-#### 🛠 Infra, Cloud & DevOps
+#### 🛠 Other skills
 `Docker` · `AWS` · `Linux` · `Git` . `Jenkins`
 
 ---
