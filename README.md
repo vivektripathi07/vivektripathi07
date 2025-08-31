@@ -21,7 +21,7 @@ I have been actively reading and learning about Machine Learning and Statistics 
 `Java` · `C` · `C++` · `Python` · `JavaScript`
 
 #### 🧠 ML Related
-`Pandas` · `TensorFlow` · `Scikit-learn` · `OpenCV` · `PyTorch`
+`FastAPI` . `Pandas` · `TensorFlow` · `Scikit-learn` · `OpenCV` · `PyTorch`
 
 #### 🌐 Web Dev
 `React.js` · `Node.js` · `Express` · `MySQL` · `HTML/CSS`
